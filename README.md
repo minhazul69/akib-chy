@@ -5,15 +5,15 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **MERN Stack Developer**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **  React Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **minhajulalam.web@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
