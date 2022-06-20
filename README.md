@@ -6,11 +6,11 @@
 ✌ Love to Code and Do Problem Solving <br>
 💕Passionate About Learning <br>
 💬 Ask me about **Anything** <br>
-📫 How to reach me **MahbubBengali@gmail.com**
+📫 How to reach me **minhajulalam.web@gmail.com**
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akib-chy&&style=flat-square)  
   
-
+## About Me
 Hello! I'm Mohammad Akib, a professional front-end developer. I am a quick learner and
 always try out new technologies. Personally, I am interested in working with any
 company that thinks my skill will be helpful for them. If you are looking for someone like
