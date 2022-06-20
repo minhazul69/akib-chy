@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/akib-chy/akib-chy/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/akib-chy/noobmahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Akib Chowdhury</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
