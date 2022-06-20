@@ -57,7 +57,7 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akib-chy&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: akib-official.netlify.app
+[website]: https://akib-official.netlify.app/
 [facebook]: https://www.facebook.com/Minhajul69
 [twitter]: https://twitter.com/akib_chy69
 [instagram]: https://www.instagram.com/_m.a_akib_/
