@@ -63,6 +63,9 @@ me, please let me know.
 <img style="margin: 20px" src="https://brand.heroku.com/static/media/heroku-logotype-vertical.f7e1193f.svg" alt="Git" height="35" /> 
 <img style="margin: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Stodio" height="35" /> 
 <img style="margin: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Git" height="35" /> 
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" height="35" /> 
+<img style="margin: 20px" src="https://static.cdnlogo.com/logos/y/59/yearn-finance.svg" alt="Yearn" height="35" /> 
+<img style="margin: 20px" src="https://iconape.com/wp-content/files/dw/349197/png/netlify-logo.png" alt="Netlify" height="35" /> 
 </div>  
 
 <br/>
