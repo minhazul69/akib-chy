@@ -6,7 +6,7 @@
 ✌ Love to Code and Do Problem Solving <br>
 💕Passionate About Learning <br>
 💬 Ask me about **Anything** <br>
-📫 How to reach me **minhajulalam.web@gmail.com**<br>
+📫 How to reach me **minhajulalam.web@gmail.com**<br><br>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akib-chy&&style=flat-square)  
