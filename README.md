@@ -7,7 +7,7 @@
 💕Passionate About Learning  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mdmehedihasan&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=akib-chy&&style=flat-square)  
   
 
 Hi!  I work as a MERN stack developer. Self-motivated and quick learner, experience with unbreakable and elegant React web apps. Looking for an opportunity to grow web development skills in an innovative environment.  
